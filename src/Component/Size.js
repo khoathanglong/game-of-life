@@ -20,8 +20,6 @@ const Size =({dispatch})=> {
         <input type="number" min="10" max="100" step="5"  
           ref={selectCol => {col=selectCol }} /> 
             COLS 
-
-        
       </form>
     </div>
   )
