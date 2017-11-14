@@ -14,6 +14,7 @@ class App extends Component {
         <StartButtonContainer/> 
         <ChangeSizeContainer />
         <br/>
+        <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target='blank'>Game Rules</a>
         <TableContainer/> 
       </div>
       )}
