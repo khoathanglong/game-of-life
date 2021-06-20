@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className='Game' >
-        <h1>FreeCodeCamp: Game of Life</h1>
+        <h1> Game of Life</h1>
         <StartButtonContainer/> 
         <ChangeSizeContainer />
         <br/>
